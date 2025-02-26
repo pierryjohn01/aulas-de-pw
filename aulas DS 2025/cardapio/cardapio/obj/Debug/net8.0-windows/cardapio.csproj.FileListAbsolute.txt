@@ -1,0 +1,16 @@
+C:\Users\Fatec\Desktop\Nova pasta\cardapio\cardapio\bin\Debug\net8.0-windows\cardapio.exe
+C:\Users\Fatec\Desktop\Nova pasta\cardapio\cardapio\bin\Debug\net8.0-windows\cardapio.deps.json
+C:\Users\Fatec\Desktop\Nova pasta\cardapio\cardapio\bin\Debug\net8.0-windows\cardapio.runtimeconfig.json
+C:\Users\Fatec\Desktop\Nova pasta\cardapio\cardapio\bin\Debug\net8.0-windows\cardapio.dll
+C:\Users\Fatec\Desktop\Nova pasta\cardapio\cardapio\bin\Debug\net8.0-windows\cardapio.pdb
+C:\Users\Fatec\Desktop\Nova pasta\cardapio\cardapio\obj\Debug\net8.0-windows\cardapio.Form1.resources
+C:\Users\Fatec\Desktop\Nova pasta\cardapio\cardapio\obj\Debug\net8.0-windows\cardapio.csproj.GenerateResource.cache
+C:\Users\Fatec\Desktop\Nova pasta\cardapio\cardapio\obj\Debug\net8.0-windows\cardapio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatec\Desktop\Nova pasta\cardapio\cardapio\obj\Debug\net8.0-windows\cardapio.AssemblyInfoInputs.cache
+C:\Users\Fatec\Desktop\Nova pasta\cardapio\cardapio\obj\Debug\net8.0-windows\cardapio.AssemblyInfo.cs
+C:\Users\Fatec\Desktop\Nova pasta\cardapio\cardapio\obj\Debug\net8.0-windows\cardapio.csproj.CoreCompileInputs.cache
+C:\Users\Fatec\Desktop\Nova pasta\cardapio\cardapio\obj\Debug\net8.0-windows\cardapio.dll
+C:\Users\Fatec\Desktop\Nova pasta\cardapio\cardapio\obj\Debug\net8.0-windows\refint\cardapio.dll
+C:\Users\Fatec\Desktop\Nova pasta\cardapio\cardapio\obj\Debug\net8.0-windows\cardapio.pdb
+C:\Users\Fatec\Desktop\Nova pasta\cardapio\cardapio\obj\Debug\net8.0-windows\cardapio.genruntimeconfig.cache
+C:\Users\Fatec\Desktop\Nova pasta\cardapio\cardapio\obj\Debug\net8.0-windows\ref\cardapio.dll
