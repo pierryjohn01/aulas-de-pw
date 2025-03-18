@@ -1,0 +1,17 @@
+C:\Users\Fatec\Desktop\exerciciocombobox\comcobox\comcobox\obj\Debug\net6.0-windows\comcobox.Form1.resources
+C:\Users\Fatec\Desktop\exerciciocombobox\comcobox\comcobox\obj\Debug\net6.0-windows\comcobox.csproj.GenerateResource.cache
+C:\Users\Fatec\Desktop\exerciciocombobox\comcobox\comcobox\obj\Debug\net6.0-windows\comcobox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatec\Desktop\exerciciocombobox\comcobox\comcobox\obj\Debug\net6.0-windows\comcobox.AssemblyInfoInputs.cache
+C:\Users\Fatec\Desktop\exerciciocombobox\comcobox\comcobox\obj\Debug\net6.0-windows\comcobox.AssemblyInfo.cs
+C:\Users\Fatec\Desktop\exerciciocombobox\comcobox\comcobox\obj\Debug\net6.0-windows\comcobox.csproj.CoreCompileInputs.cache
+C:\Users\Fatec\Desktop\exerciciocombobox\comcobox\comcobox\bin\Debug\net6.0-windows\comcobox.exe
+C:\Users\Fatec\Desktop\exerciciocombobox\comcobox\comcobox\bin\Debug\net6.0-windows\comcobox.deps.json
+C:\Users\Fatec\Desktop\exerciciocombobox\comcobox\comcobox\bin\Debug\net6.0-windows\comcobox.runtimeconfig.json
+C:\Users\Fatec\Desktop\exerciciocombobox\comcobox\comcobox\bin\Debug\net6.0-windows\comcobox.dll
+C:\Users\Fatec\Desktop\exerciciocombobox\comcobox\comcobox\bin\Debug\net6.0-windows\comcobox.pdb
+C:\Users\Fatec\Desktop\exerciciocombobox\comcobox\comcobox\obj\Debug\net6.0-windows\comcobox.dll
+C:\Users\Fatec\Desktop\exerciciocombobox\comcobox\comcobox\obj\Debug\net6.0-windows\refint\comcobox.dll
+C:\Users\Fatec\Desktop\exerciciocombobox\comcobox\comcobox\obj\Debug\net6.0-windows\comcobox.pdb
+C:\Users\Fatec\Desktop\exerciciocombobox\comcobox\comcobox\obj\Debug\net6.0-windows\comcobox.genruntimeconfig.cache
+C:\Users\Fatec\Desktop\exerciciocombobox\comcobox\comcobox\obj\Debug\net6.0-windows\ref\comcobox.dll
+C:\Users\Fatec\Desktop\exerciciocombobox\comcobox\comcobox\obj\Debug\net6.0-windows\comcobox.Properties.Resources.resources
