@@ -1,0 +1,16 @@
+C:\Users\Fatec\Desktop\exemplo caça palavra\exemplo caça-palavra\exemplo caça-palavra\bin\Debug\net8.0-windows\exemplo caça-palavra.exe
+C:\Users\Fatec\Desktop\exemplo caça palavra\exemplo caça-palavra\exemplo caça-palavra\bin\Debug\net8.0-windows\exemplo caça-palavra.deps.json
+C:\Users\Fatec\Desktop\exemplo caça palavra\exemplo caça-palavra\exemplo caça-palavra\bin\Debug\net8.0-windows\exemplo caça-palavra.runtimeconfig.json
+C:\Users\Fatec\Desktop\exemplo caça palavra\exemplo caça-palavra\exemplo caça-palavra\bin\Debug\net8.0-windows\exemplo caça-palavra.dll
+C:\Users\Fatec\Desktop\exemplo caça palavra\exemplo caça-palavra\exemplo caça-palavra\bin\Debug\net8.0-windows\exemplo caça-palavra.pdb
+C:\Users\Fatec\Desktop\exemplo caça palavra\exemplo caça-palavra\exemplo caça-palavra\obj\Debug\net8.0-windows\exemplo_caça_palavra.Form1.resources
+C:\Users\Fatec\Desktop\exemplo caça palavra\exemplo caça-palavra\exemplo caça-palavra\obj\Debug\net8.0-windows\exemplo caça-palavra.csproj.GenerateResource.cache
+C:\Users\Fatec\Desktop\exemplo caça palavra\exemplo caça-palavra\exemplo caça-palavra\obj\Debug\net8.0-windows\exemplo caça-palavra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatec\Desktop\exemplo caça palavra\exemplo caça-palavra\exemplo caça-palavra\obj\Debug\net8.0-windows\exemplo caça-palavra.AssemblyInfoInputs.cache
+C:\Users\Fatec\Desktop\exemplo caça palavra\exemplo caça-palavra\exemplo caça-palavra\obj\Debug\net8.0-windows\exemplo caça-palavra.AssemblyInfo.cs
+C:\Users\Fatec\Desktop\exemplo caça palavra\exemplo caça-palavra\exemplo caça-palavra\obj\Debug\net8.0-windows\exemplo caça-palavra.csproj.CoreCompileInputs.cache
+C:\Users\Fatec\Desktop\exemplo caça palavra\exemplo caça-palavra\exemplo caça-palavra\obj\Debug\net8.0-windows\exemplo caça-palavra.dll
+C:\Users\Fatec\Desktop\exemplo caça palavra\exemplo caça-palavra\exemplo caça-palavra\obj\Debug\net8.0-windows\refint\exemplo caça-palavra.dll
+C:\Users\Fatec\Desktop\exemplo caça palavra\exemplo caça-palavra\exemplo caça-palavra\obj\Debug\net8.0-windows\exemplo caça-palavra.pdb
+C:\Users\Fatec\Desktop\exemplo caça palavra\exemplo caça-palavra\exemplo caça-palavra\obj\Debug\net8.0-windows\exemplo caça-palavra.genruntimeconfig.cache
+C:\Users\Fatec\Desktop\exemplo caça palavra\exemplo caça-palavra\exemplo caça-palavra\obj\Debug\net8.0-windows\ref\exemplo caça-palavra.dll
