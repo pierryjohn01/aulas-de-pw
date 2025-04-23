@@ -1,0 +1,16 @@
+C:\Users\Fatec\Desktop\Exercicio Listbox\Exercicio listbox\Exercicio listbox\bin\Debug\net8.0-windows\Exercicio listbox.exe
+C:\Users\Fatec\Desktop\Exercicio Listbox\Exercicio listbox\Exercicio listbox\bin\Debug\net8.0-windows\Exercicio listbox.deps.json
+C:\Users\Fatec\Desktop\Exercicio Listbox\Exercicio listbox\Exercicio listbox\bin\Debug\net8.0-windows\Exercicio listbox.runtimeconfig.json
+C:\Users\Fatec\Desktop\Exercicio Listbox\Exercicio listbox\Exercicio listbox\bin\Debug\net8.0-windows\Exercicio listbox.dll
+C:\Users\Fatec\Desktop\Exercicio Listbox\Exercicio listbox\Exercicio listbox\bin\Debug\net8.0-windows\Exercicio listbox.pdb
+C:\Users\Fatec\Desktop\Exercicio Listbox\Exercicio listbox\Exercicio listbox\obj\Debug\net8.0-windows\Exercicio_listbox.Form1.resources
+C:\Users\Fatec\Desktop\Exercicio Listbox\Exercicio listbox\Exercicio listbox\obj\Debug\net8.0-windows\Exercicio listbox.csproj.GenerateResource.cache
+C:\Users\Fatec\Desktop\Exercicio Listbox\Exercicio listbox\Exercicio listbox\obj\Debug\net8.0-windows\Exercicio listbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatec\Desktop\Exercicio Listbox\Exercicio listbox\Exercicio listbox\obj\Debug\net8.0-windows\Exercicio listbox.AssemblyInfoInputs.cache
+C:\Users\Fatec\Desktop\Exercicio Listbox\Exercicio listbox\Exercicio listbox\obj\Debug\net8.0-windows\Exercicio listbox.AssemblyInfo.cs
+C:\Users\Fatec\Desktop\Exercicio Listbox\Exercicio listbox\Exercicio listbox\obj\Debug\net8.0-windows\Exercicio listbox.csproj.CoreCompileInputs.cache
+C:\Users\Fatec\Desktop\Exercicio Listbox\Exercicio listbox\Exercicio listbox\obj\Debug\net8.0-windows\Exercicio listbox.dll
+C:\Users\Fatec\Desktop\Exercicio Listbox\Exercicio listbox\Exercicio listbox\obj\Debug\net8.0-windows\refint\Exercicio listbox.dll
+C:\Users\Fatec\Desktop\Exercicio Listbox\Exercicio listbox\Exercicio listbox\obj\Debug\net8.0-windows\Exercicio listbox.pdb
+C:\Users\Fatec\Desktop\Exercicio Listbox\Exercicio listbox\Exercicio listbox\obj\Debug\net8.0-windows\Exercicio listbox.genruntimeconfig.cache
+C:\Users\Fatec\Desktop\Exercicio Listbox\Exercicio listbox\Exercicio listbox\obj\Debug\net8.0-windows\ref\Exercicio listbox.dll
