@@ -1,0 +1,16 @@
+C:\Users\Fatec\Desktop\exemplo listbox\exemplo list box\exemplo list box\bin\Debug\net8.0-windows\exemplo list box.exe
+C:\Users\Fatec\Desktop\exemplo listbox\exemplo list box\exemplo list box\bin\Debug\net8.0-windows\exemplo list box.deps.json
+C:\Users\Fatec\Desktop\exemplo listbox\exemplo list box\exemplo list box\bin\Debug\net8.0-windows\exemplo list box.runtimeconfig.json
+C:\Users\Fatec\Desktop\exemplo listbox\exemplo list box\exemplo list box\bin\Debug\net8.0-windows\exemplo list box.dll
+C:\Users\Fatec\Desktop\exemplo listbox\exemplo list box\exemplo list box\bin\Debug\net8.0-windows\exemplo list box.pdb
+C:\Users\Fatec\Desktop\exemplo listbox\exemplo list box\exemplo list box\obj\Debug\net8.0-windows\exemplo_list_box.Form1.resources
+C:\Users\Fatec\Desktop\exemplo listbox\exemplo list box\exemplo list box\obj\Debug\net8.0-windows\exemplo list box.csproj.GenerateResource.cache
+C:\Users\Fatec\Desktop\exemplo listbox\exemplo list box\exemplo list box\obj\Debug\net8.0-windows\exemplo list box.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatec\Desktop\exemplo listbox\exemplo list box\exemplo list box\obj\Debug\net8.0-windows\exemplo list box.AssemblyInfoInputs.cache
+C:\Users\Fatec\Desktop\exemplo listbox\exemplo list box\exemplo list box\obj\Debug\net8.0-windows\exemplo list box.AssemblyInfo.cs
+C:\Users\Fatec\Desktop\exemplo listbox\exemplo list box\exemplo list box\obj\Debug\net8.0-windows\exemplo list box.csproj.CoreCompileInputs.cache
+C:\Users\Fatec\Desktop\exemplo listbox\exemplo list box\exemplo list box\obj\Debug\net8.0-windows\exemplo list box.dll
+C:\Users\Fatec\Desktop\exemplo listbox\exemplo list box\exemplo list box\obj\Debug\net8.0-windows\refint\exemplo list box.dll
+C:\Users\Fatec\Desktop\exemplo listbox\exemplo list box\exemplo list box\obj\Debug\net8.0-windows\exemplo list box.pdb
+C:\Users\Fatec\Desktop\exemplo listbox\exemplo list box\exemplo list box\obj\Debug\net8.0-windows\exemplo list box.genruntimeconfig.cache
+C:\Users\Fatec\Desktop\exemplo listbox\exemplo list box\exemplo list box\obj\Debug\net8.0-windows\ref\exemplo list box.dll
