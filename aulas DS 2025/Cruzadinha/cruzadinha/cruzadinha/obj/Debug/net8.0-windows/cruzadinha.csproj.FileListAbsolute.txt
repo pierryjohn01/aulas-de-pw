@@ -1,0 +1,17 @@
+C:\Users\Fatec\Desktop\Cruzadinha\cruzadinha\cruzadinha\bin\Debug\net8.0-windows\cruzadinha.exe
+C:\Users\Fatec\Desktop\Cruzadinha\cruzadinha\cruzadinha\bin\Debug\net8.0-windows\cruzadinha.deps.json
+C:\Users\Fatec\Desktop\Cruzadinha\cruzadinha\cruzadinha\bin\Debug\net8.0-windows\cruzadinha.runtimeconfig.json
+C:\Users\Fatec\Desktop\Cruzadinha\cruzadinha\cruzadinha\bin\Debug\net8.0-windows\cruzadinha.dll
+C:\Users\Fatec\Desktop\Cruzadinha\cruzadinha\cruzadinha\bin\Debug\net8.0-windows\cruzadinha.pdb
+C:\Users\Fatec\Desktop\Cruzadinha\cruzadinha\cruzadinha\obj\Debug\net8.0-windows\cruzadinha.Form1.resources
+C:\Users\Fatec\Desktop\Cruzadinha\cruzadinha\cruzadinha\obj\Debug\net8.0-windows\cruzadinha.csproj.GenerateResource.cache
+C:\Users\Fatec\Desktop\Cruzadinha\cruzadinha\cruzadinha\obj\Debug\net8.0-windows\cruzadinha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatec\Desktop\Cruzadinha\cruzadinha\cruzadinha\obj\Debug\net8.0-windows\cruzadinha.AssemblyInfoInputs.cache
+C:\Users\Fatec\Desktop\Cruzadinha\cruzadinha\cruzadinha\obj\Debug\net8.0-windows\cruzadinha.AssemblyInfo.cs
+C:\Users\Fatec\Desktop\Cruzadinha\cruzadinha\cruzadinha\obj\Debug\net8.0-windows\cruzadinha.csproj.CoreCompileInputs.cache
+C:\Users\Fatec\Desktop\Cruzadinha\cruzadinha\cruzadinha\obj\Debug\net8.0-windows\cruzadinha.dll
+C:\Users\Fatec\Desktop\Cruzadinha\cruzadinha\cruzadinha\obj\Debug\net8.0-windows\refint\cruzadinha.dll
+C:\Users\Fatec\Desktop\Cruzadinha\cruzadinha\cruzadinha\obj\Debug\net8.0-windows\cruzadinha.pdb
+C:\Users\Fatec\Desktop\Cruzadinha\cruzadinha\cruzadinha\obj\Debug\net8.0-windows\cruzadinha.genruntimeconfig.cache
+C:\Users\Fatec\Desktop\Cruzadinha\cruzadinha\cruzadinha\obj\Debug\net8.0-windows\ref\cruzadinha.dll
+C:\Users\Fatec\Desktop\Cruzadinha\cruzadinha\cruzadinha\obj\Debug\net8.0-windows\cruzadinha.Properties.Resources.resources
