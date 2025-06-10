@@ -1,0 +1,17 @@
+C:\Users\Note3_S7\Desktop\exemplo combobox com switch\exemlo switch combobox\bin\Debug\net7.0-windows\exemlo switch combobox.exe
+C:\Users\Note3_S7\Desktop\exemplo combobox com switch\exemlo switch combobox\bin\Debug\net7.0-windows\exemlo switch combobox.deps.json
+C:\Users\Note3_S7\Desktop\exemplo combobox com switch\exemlo switch combobox\bin\Debug\net7.0-windows\exemlo switch combobox.runtimeconfig.json
+C:\Users\Note3_S7\Desktop\exemplo combobox com switch\exemlo switch combobox\bin\Debug\net7.0-windows\exemlo switch combobox.dll
+C:\Users\Note3_S7\Desktop\exemplo combobox com switch\exemlo switch combobox\bin\Debug\net7.0-windows\exemlo switch combobox.pdb
+C:\Users\Note3_S7\Desktop\exemplo combobox com switch\exemlo switch combobox\obj\Debug\net7.0-windows\exemlo switch combobox.csproj.AssemblyReference.cache
+C:\Users\Note3_S7\Desktop\exemplo combobox com switch\exemlo switch combobox\obj\Debug\net7.0-windows\exemlo_switch_combobox.Form1.resources
+C:\Users\Note3_S7\Desktop\exemplo combobox com switch\exemlo switch combobox\obj\Debug\net7.0-windows\exemlo switch combobox.csproj.GenerateResource.cache
+C:\Users\Note3_S7\Desktop\exemplo combobox com switch\exemlo switch combobox\obj\Debug\net7.0-windows\exemlo switch combobox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note3_S7\Desktop\exemplo combobox com switch\exemlo switch combobox\obj\Debug\net7.0-windows\exemlo switch combobox.AssemblyInfoInputs.cache
+C:\Users\Note3_S7\Desktop\exemplo combobox com switch\exemlo switch combobox\obj\Debug\net7.0-windows\exemlo switch combobox.AssemblyInfo.cs
+C:\Users\Note3_S7\Desktop\exemplo combobox com switch\exemlo switch combobox\obj\Debug\net7.0-windows\exemlo switch combobox.csproj.CoreCompileInputs.cache
+C:\Users\Note3_S7\Desktop\exemplo combobox com switch\exemlo switch combobox\obj\Debug\net7.0-windows\exemlo switch combobox.dll
+C:\Users\Note3_S7\Desktop\exemplo combobox com switch\exemlo switch combobox\obj\Debug\net7.0-windows\refint\exemlo switch combobox.dll
+C:\Users\Note3_S7\Desktop\exemplo combobox com switch\exemlo switch combobox\obj\Debug\net7.0-windows\exemlo switch combobox.pdb
+C:\Users\Note3_S7\Desktop\exemplo combobox com switch\exemlo switch combobox\obj\Debug\net7.0-windows\exemlo switch combobox.genruntimeconfig.cache
+C:\Users\Note3_S7\Desktop\exemplo combobox com switch\exemlo switch combobox\obj\Debug\net7.0-windows\ref\exemlo switch combobox.dll
