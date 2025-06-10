@@ -1,0 +1,17 @@
+C:\Users\Note3_S7\Desktop\checar vogal combobox\checar vogal ou consoante\bin\Debug\net7.0-windows\checar vogal ou consoante.exe
+C:\Users\Note3_S7\Desktop\checar vogal combobox\checar vogal ou consoante\bin\Debug\net7.0-windows\checar vogal ou consoante.deps.json
+C:\Users\Note3_S7\Desktop\checar vogal combobox\checar vogal ou consoante\bin\Debug\net7.0-windows\checar vogal ou consoante.runtimeconfig.json
+C:\Users\Note3_S7\Desktop\checar vogal combobox\checar vogal ou consoante\bin\Debug\net7.0-windows\checar vogal ou consoante.dll
+C:\Users\Note3_S7\Desktop\checar vogal combobox\checar vogal ou consoante\bin\Debug\net7.0-windows\checar vogal ou consoante.pdb
+C:\Users\Note3_S7\Desktop\checar vogal combobox\checar vogal ou consoante\obj\Debug\net7.0-windows\checar vogal ou consoante.csproj.AssemblyReference.cache
+C:\Users\Note3_S7\Desktop\checar vogal combobox\checar vogal ou consoante\obj\Debug\net7.0-windows\checar_vogal_ou_consoante.Form1.resources
+C:\Users\Note3_S7\Desktop\checar vogal combobox\checar vogal ou consoante\obj\Debug\net7.0-windows\checar vogal ou consoante.csproj.GenerateResource.cache
+C:\Users\Note3_S7\Desktop\checar vogal combobox\checar vogal ou consoante\obj\Debug\net7.0-windows\checar vogal ou consoante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note3_S7\Desktop\checar vogal combobox\checar vogal ou consoante\obj\Debug\net7.0-windows\checar vogal ou consoante.AssemblyInfoInputs.cache
+C:\Users\Note3_S7\Desktop\checar vogal combobox\checar vogal ou consoante\obj\Debug\net7.0-windows\checar vogal ou consoante.AssemblyInfo.cs
+C:\Users\Note3_S7\Desktop\checar vogal combobox\checar vogal ou consoante\obj\Debug\net7.0-windows\checar vogal ou consoante.csproj.CoreCompileInputs.cache
+C:\Users\Note3_S7\Desktop\checar vogal combobox\checar vogal ou consoante\obj\Debug\net7.0-windows\checar vogal ou consoante.dll
+C:\Users\Note3_S7\Desktop\checar vogal combobox\checar vogal ou consoante\obj\Debug\net7.0-windows\refint\checar vogal ou consoante.dll
+C:\Users\Note3_S7\Desktop\checar vogal combobox\checar vogal ou consoante\obj\Debug\net7.0-windows\checar vogal ou consoante.pdb
+C:\Users\Note3_S7\Desktop\checar vogal combobox\checar vogal ou consoante\obj\Debug\net7.0-windows\checar vogal ou consoante.genruntimeconfig.cache
+C:\Users\Note3_S7\Desktop\checar vogal combobox\checar vogal ou consoante\obj\Debug\net7.0-windows\ref\checar vogal ou consoante.dll
