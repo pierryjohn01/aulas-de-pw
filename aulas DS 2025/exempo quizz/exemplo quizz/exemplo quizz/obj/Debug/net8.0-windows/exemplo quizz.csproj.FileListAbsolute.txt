@@ -1,0 +1,21 @@
+C:\Users\Fatec\Desktop\exempo quizz\exemplo quizz\exemplo quizz\bin\Debug\net8.0-windows\exemplo quizz.exe
+C:\Users\Fatec\Desktop\exempo quizz\exemplo quizz\exemplo quizz\bin\Debug\net8.0-windows\exemplo quizz.deps.json
+C:\Users\Fatec\Desktop\exempo quizz\exemplo quizz\exemplo quizz\bin\Debug\net8.0-windows\exemplo quizz.runtimeconfig.json
+C:\Users\Fatec\Desktop\exempo quizz\exemplo quizz\exemplo quizz\bin\Debug\net8.0-windows\exemplo quizz.dll
+C:\Users\Fatec\Desktop\exempo quizz\exemplo quizz\exemplo quizz\bin\Debug\net8.0-windows\exemplo quizz.pdb
+C:\Users\Fatec\Desktop\exempo quizz\exemplo quizz\exemplo quizz\obj\Debug\net8.0-windows\exemplo_quizz.Form1.resources
+C:\Users\Fatec\Desktop\exempo quizz\exemplo quizz\exemplo quizz\obj\Debug\net8.0-windows\exemplo_quizz.Form2.resources
+C:\Users\Fatec\Desktop\exempo quizz\exemplo quizz\exemplo quizz\obj\Debug\net8.0-windows\exemplo_quizz.Form3.resources
+C:\Users\Fatec\Desktop\exempo quizz\exemplo quizz\exemplo quizz\obj\Debug\net8.0-windows\exemplo_quizz.Form4.resources
+C:\Users\Fatec\Desktop\exempo quizz\exemplo quizz\exemplo quizz\obj\Debug\net8.0-windows\exemplo_quizz.Form5.resources
+C:\Users\Fatec\Desktop\exempo quizz\exemplo quizz\exemplo quizz\obj\Debug\net8.0-windows\exemplo_quizz.Form6.resources
+C:\Users\Fatec\Desktop\exempo quizz\exemplo quizz\exemplo quizz\obj\Debug\net8.0-windows\exemplo quizz.csproj.GenerateResource.cache
+C:\Users\Fatec\Desktop\exempo quizz\exemplo quizz\exemplo quizz\obj\Debug\net8.0-windows\exemplo quizz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatec\Desktop\exempo quizz\exemplo quizz\exemplo quizz\obj\Debug\net8.0-windows\exemplo quizz.AssemblyInfoInputs.cache
+C:\Users\Fatec\Desktop\exempo quizz\exemplo quizz\exemplo quizz\obj\Debug\net8.0-windows\exemplo quizz.AssemblyInfo.cs
+C:\Users\Fatec\Desktop\exempo quizz\exemplo quizz\exemplo quizz\obj\Debug\net8.0-windows\exemplo quizz.csproj.CoreCompileInputs.cache
+C:\Users\Fatec\Desktop\exempo quizz\exemplo quizz\exemplo quizz\obj\Debug\net8.0-windows\exemplo quizz.dll
+C:\Users\Fatec\Desktop\exempo quizz\exemplo quizz\exemplo quizz\obj\Debug\net8.0-windows\refint\exemplo quizz.dll
+C:\Users\Fatec\Desktop\exempo quizz\exemplo quizz\exemplo quizz\obj\Debug\net8.0-windows\exemplo quizz.pdb
+C:\Users\Fatec\Desktop\exempo quizz\exemplo quizz\exemplo quizz\obj\Debug\net8.0-windows\exemplo quizz.genruntimeconfig.cache
+C:\Users\Fatec\Desktop\exempo quizz\exemplo quizz\exemplo quizz\obj\Debug\net8.0-windows\ref\exemplo quizz.dll
